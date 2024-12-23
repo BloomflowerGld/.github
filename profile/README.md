@@ -1,12 +1,14 @@
-## Hi there 👋
+![Logo](https://raw.githubusercontent.com/BloomflowerGld/.github/refs/heads/main/Mini.png)
 
-<!--
 
-**Here are some ideas to get you started:**
+# Bloomflower
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Bloomflower is a Guilded developer group.
+## Projects
+
+- 🟡 [GuildPromo](https://github.com/orgs/BloomflowerGld/teams/guildpromo) - Currently in development.
+- 🟡 [GitBot](https://github.com/orgs/BloomflowerGld/teams/gitbot) - Currently in development.
+- 🟤 [MusicBro](https://github.com/orgs/BloomflowerGld/teams/musicbro) - Development hasn't begun.
+## Developers
+
+- [@BadGoo](https://www.github.com/BadGoo) - Head Dev (guilded: [/u/JoshBart](https://www.guilded.gg/u/JoshBart))
